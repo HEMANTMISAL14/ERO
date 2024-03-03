@@ -40,7 +40,7 @@ if (storedData) {
 
 
 
-const key = 'pk.eyJ1IjoiaGVtYW50MTQiLCJhIjoiY2x0OXFrbjhqMTV2ajJscng0d2RrYW92ayJ9.m7JpuR1dHUVOHhmxryYNYg'
+const key = 'API_KEY'
 mapboxgl.accessToken = key;
 
 let map = new mapboxgl.Map({
