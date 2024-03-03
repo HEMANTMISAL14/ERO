@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+    --red: #dd5353;
+    --blue: #538ddd;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+#map{
+    height: 100dvh;
+}
+
+
+a.mapboxgl-ctrl-logo, .mapboxgl-ctrl-attrib-inner{
+    display: none;
+}
+.container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 1rem;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+    width: calc(100% - 2rem);
+}
+/* #map{
+    padding: 1rem;
+} */
+.viewer {
+    position: absolute;
+    margin: 1rem;
+    bottom: 0;
+    height: 2rem;
+    width: 4rem;
+    border-radius: 100px;
+    background: var(--blue);
+    box-shadow: 0px 0px 5px #0003;
+    cursor: pointer;
+    transition: all .3s ease;
+    z-index: 100;
+}
+.viewer .dot {
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    height: 1.5rem;
+    width: 1.5rem;
+    border-radius: 100px;
+    background: #efefef;
+    transition: all .3s ease;
+    z-index: 2;
+}
+.viewer .mode {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
+
+
+.custom-input {
+    /* position: absolute;
+    top: 0; */
+    width: 80vw;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+}
+/* .mapboxgl-ctrl-geocoder--input {
+    width: 100% !important;
+} */
+
+form {
+    align-self: center;
+}
+.origin {
+    padding: 1rem 1.5rem;
+    border-radius: 100px;
+    box-shadow: 0px 0px 5px #0003;
+    outline: none;
+    border: none;
+    /* font-size: 16px; */
+    background: #fff;
+    width: 80vw;
+}
+
+
+#geocoder-container {
+    position: absolute;
+    right: 0.5rem;
+    top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    position: absolute;
+    margin: 1rem;
+}
+.form input, .form input ~ label {
+    padding: 0.7rem 1rem;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    box-shadow: 0px 0px 5px #0003;
+    background: #fff;
+}
+.form button {
+    padding: 0.7rem 1rem;
+    background: #538ddd;
+    color: #fff;
+    border: none;
+    outline: none;
+}

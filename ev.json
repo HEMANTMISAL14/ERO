@@ -1,0 +1,2594 @@
+{
+    "chargers": [
+        {
+            "a": 12,
+            "name": "Synergy Solutions AC Charging Station 2",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Synergy Solutions, Shop No 9 , Modak Prasad, 410, Narayan Peth,Pune",
+            "lattitude": 18.538,
+            "longitude": 73.8485,
+            "type": 12
+        },
+        {
+            "a": 19,
+            "name": "Kothari Enterprises  AC1",
+            "state": "Maharashtra",
+            "city": "Khopoli",
+            "address": "Kothari Brothers, Laxminagar, Khopoli, Maharashtra 410203",
+            "lattitude": 18.7876,
+            "longitude": 73.3475,
+            "type": 12
+          },
+          {
+            "a": 22,
+            "name": "Lonavla Wax Museum DC Charging Station",
+            "state": "Maharashtra",
+            "city": "Lonavla",
+            "address": "69/1 near Lonavla College, opp. neeta volvo, Valvan, Lonavla, Maharashtra 410403 M-9766666469",
+            "lattitude": 18.763,
+            "longitude": 73.4252,
+            "type": 12
+          },
+          {
+            "a": 32,
+            "name": "Tellus Power DC Charging Station",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "AH47, Maharashtra 415406",
+            "lattitude": 17.0749,
+            "longitude": 74.2227,
+            "type": 12
+          },
+          {
+            "a": 34,
+            "name": "Synergy Solutions AC Charging Station 1",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "office 9. Modak Prasad ,Oppo Rastrabhasha Bhavan",
+            "lattitude": 18.5145,
+            "longitude": 73.8489,
+            "type": 12
+          },
+          {
+            "a": 35,
+            "name": "Inspacco Circle Station",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Shreenath Society, Veerbhadra Nagar, Baner, Pune, Maharashtra 411045",
+            "lattitude": 18.5619,
+            "longitude": 73.7718,
+            "type": 12
+          },
+          {
+            "a": 38,
+            "name": "HP Mira Bhayandar DC Charging Station",
+            "state": "Maharashtra",
+            "city": "Mira Bhayandar",
+            "address": "NH-8, Mashachapada, Mira Road, Mira Bhayandar, Maharashtra",
+            "lattitude": 19.2747,
+            "longitude": 72.8856,
+            "type": 12
+          },
+          {
+            "a": 41,
+            "name": "HP Super Service DC Charging Station",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "157, Jeevan Bima Marg, Backbay Reclamation, Churchgate, Mumbai, Maharashtra 400020, India",
+            "lattitude": 18.9285,
+            "longitude": 72.8255,
+            "type": 12
+          },
+          {
+            "a": 42,
+            "name": "Vrundavan Garden DC Charging Station Nashik",
+            "state": "Maharashtra",
+            "city": "Dindori",
+            "address": "Vrundavan Garden, Nashik Dindori Road,Near Shiv Shakti Bharat Petrol pump,Rantale, Dindori, Maharashtra 422202",
+            "lattitude": 20.1704,
+            "longitude": 73.8273,
+            "type": 12
+          },
+          {
+            "a": 45,
+            "name": "Ashnni Pilot Circle Station",
+            "state": "Maharashtra",
+            "city": "Sangli",
+            "address": "Gangaprasad, parshwanath colony, kuthe mala, dhamni road, Sangli, Maharashtra,  416416",
+            "lattitude": 16.8433,
+            "longitude": 74.5859,
+            "type": 12
+          },
+          {
+            "a": 46,
+            "name": "AMC AC Charging Station",
+            "state": "Maharashtra",
+            "city": "Marunji",
+            "address": "Phase 1, Hinjewadi Rajiv Gandhi Infotech Park, Hinjawadi, Pimpri-Chinchwad, Maharashtra 411057",
+            "lattitude": 18.5808,
+            "longitude": 73.7399,
+            "type": 12
+          },
+          {
+            "a": 55,
+            "name": "Kohinoor Altissimo Residential Tower",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Kohinoor Altissimo Residential Tower, Kohinoor Altissimo, Kasaravadi, Dadar, Mumbai, Maharashtra 400028",
+            "lattitude": 19.0246,
+            "longitude": 72.8402,
+            "type": 12
+          },
+          {
+            "a": 57,
+            "name": "P G Regency Resort Charging Station",
+            "state": "Maharashtra",
+            "city": "Mahad",
+            "address": "PG Regency,Govind Garden,103/1B, Plot no.4, Mumbai Goa HighWay, Mahad-Raigad, Mahad, Maharashtra 402301 Ph no. 7039892236",
+            "lattitude": 18.0855,
+            "longitude": 73.4309,
+            "type": 12
+          },
+          {
+            "a": 61,
+            "name": "Evershine Mall Charging Station",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Chincholi Bunder Road, New Link Rd, Malad West, Mumbai, Maharashtra 400064",
+            "lattitude": 19.1798,
+            "longitude": 72.8361,
+            "type": 12
+          },
+          {
+            "a": 70,
+            "name": "Nandavan DC Charging Station Nagoan",
+            "state": "Maharashtra",
+            "city": "Nagaon",
+            "address": "Nandavan, Mahajan Wadi, Near Bhimeshwar Mandir, At Post Nagaon, Taluka Alibag, Dist. Raigarh, Pin 402204, Phone no Kedar Bane, +919923724004, Prashant Mahajan - +919619174428",
+            "lattitude": 18.6184,
+            "longitude": 72.9004,
+            "type": 12
+          },
+          {
+            "a": 72,
+            "name": "Unnati Social Foundation",
+            "state": "Maharashtra",
+            "city": "Pimpri-Chinchwad",
+            "address": "Unnati Social Foundation Jarvari Society, Opposite PK International School, Pimple Saudagar, Pune",
+            "lattitude": 18.5948,
+            "longitude": 73.7975,
+            "type": 12
+          },
+          {
+            "a": 73,
+            "name": "HP PETROL PUMP - SAI PETROLEUM,MUMBAI",
+            "state": "Maharashtra",
+            "city": "Bengaluru",
+            "address": "Village Katai gao, Kalyan - Shilphata Rd, Dombivli East, Mumbai, Maharashtra 421203",
+            "lattitude": 19.1709,
+            "longitude": 73.0819,
+            "type": 12
+          },
+          {
+            "a": 74,
+            "name": "ShriSamarth DC Charging Station, Beed",
+            "state": "Maharashtra",
+            "city": "Bengaluru",
+            "address": "EV Charging Station, Near Mancott Jining Gevrai Road, NH 61, Phule Pimpalgaon, Maharashtra 431142",
+            "lattitude": 19.1779,
+            "longitude": 76.168,
+            "type": 12
+          },
+          {
+            "a": 76,
+            "name": "Unity Mall Charging Station Vasai",
+            "state": "Maharashtra",
+            "city": "Vasai-Virar",
+            "address": "Unity Mall, Stella Road, next to Big Bazzar, Bhabola, Vasai West, Maharashtra 401201",
+            "lattitude": 19.3593,
+            "longitude": 72.8123,
+            "type": 12
+          },
+          {
+            "a": 77,
+            "name": "Advant IT Park DC Charging Station Noida",
+            "state": "Maharashtra",
+            "city": "Greater Noida",
+            "address": "Advant IT Park, Plot No. 7, Noida-Greater Noida Expy, Sector 142, Noida, Uttar Pradesh 201305",
+            "lattitude": 28.5007,
+            "longitude": 77.4102,
+            "type": 12
+          },
+          {
+            "a": 81,
+            "name": "Pendse Garage AC Charging Station",
+            "state": "Maharashtra",
+            "city": "Nashik",
+            "address": "Pendse Garage, At post diveagar tal Shriwardhan dist raigad 402404 Phone: 9423837934",
+            "lattitude": 18.1655,
+            "longitude": 72.9929,
+            "type": 12
+          },
+          {
+            "a": 85,
+            "name": "Sarode Motors Ac EV Charging Station Nashik",
+            "state": "Maharashtra",
+            "city": "Nashik",
+            "address": "Sarode Motors | Joy eBike, Shop No.01, Beside of Hotel Happy Foods, Sarode Motors, nearby Balbharati, Lekha Nagar, Nashik, Maharashtra 422010",
+            "lattitude": 19.9758,
+            "longitude": 73.776,
+            "type": 12
+          },
+          {
+            "a": 87,
+            "name": "Hotel Daulat Nikol Fast Charging Station",
+            "state": "Maharashtra",
+            "city": "Nashik",
+            "address": "Hotel Daulat Food Mall, Mumbai Agra Highway, Shirwade (Vani) Tal: Niphad, Dist: Nashik",
+            "lattitude": 20.2137,
+            "longitude": 74.041,
+            "type": 12
+          },
+          {
+            "a": 91,
+            "name": "Hotel The Executive Inn AC Charging Station",
+            "state": "Maharashtra",
+            "city": "Shirdi",
+            "address": "",
+            "lattitude": 19.7592,
+            "longitude": 74.4763,
+            "type": 12
+          },
+          {
+            "a": 92,
+            "name": "Hotel Bliss County DC Charging Station",
+            "state": "Maharashtra",
+            "city": "Dhule",
+            "address": "",
+            "lattitude": 20.8292,
+            "longitude": 74.7485,
+            "type": 12
+          },
+          {
+            "a": 94,
+            "name": "MV EV DC Charging Station",
+            "state": "Maharashtra",
+            "city": "Dahanu",
+            "address": "",
+            "lattitude": 19.9883,
+            "longitude": 72.7488,
+            "type": 12
+          },
+          {
+            "a": 97,
+            "name": "Bhajan Singh Da Dhabha DC Charging Station",
+            "state": "Maharashtra",
+            "city": "Talegaon Dabhade",
+            "address": "",
+            "lattitude": 18.7005,
+            "longitude": 73.6933,
+            "type": 12
+          },
+          {
+            "a": 107,
+            "name": "Hotel Shree Veg Solapur DC Charging Station",
+            "state": "Maharashtra",
+            "city": "Bhadalwadi",
+            "address": "",
+            "lattitude": 18.3289,
+            "longitude": 74.7794,
+            "type": 12
+          },
+          {
+            "a": 111,
+            "name": "Synrgy Ebikes Charging Station",
+            "state": "Maharashtra",
+            "city": "Nashik",
+            "address": "",
+            "lattitude": 19.9705,
+            "longitude": 73.7528,
+            "type": 12
+          },
+          {
+            "a": 112,
+            "name": "ChargePit eMobility Charging Station",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "",
+            "lattitude": 18.5996,
+            "longitude": 73.7809,
+            "type": 12
+          },
+          {
+            "a": 126,
+            "name": "Decathlon Anubhava",
+            "state": "Maharashtra",
+            "city": "bengaluru",
+            "address": "Survey No 78/10, A2, Bellary Road, Bangalore Airport Road, Chikkajala,",
+            "lattitude": 13.169102,
+            "longitude": 77.632018,
+            "type": 6
+          },
+          {
+            "a": 127,
+            "name": "Forum Shantiniketan",
+            "state": "Maharashtra",
+            "city": "bengaluru",
+            "address": "Whitefield Main Road, Hoodi, Thigalarapalya, Krishnarajapura, Bengaluru, Karnataka",
+            "lattitude": 12.9892355,
+            "longitude": 77.7279077,
+            "type": 6
+          },
+          {
+            "a": 128,
+            "name": "Park Square Mall",
+            "state": "Maharashtra",
+            "city": "bengaluru",
+            "address": "UB1 Parking.40, ITPB Main Road, International Tech Park, Whitefield Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066",
+            "lattitude": 12.9872999191284,
+            "longitude": 77.7363967895508,
+            "type": 6
+          },
+          {
+            "a": 129,
+            "name": "GT World Mall",
+            "state": "Maharashtra",
+            "city": "bengaluru",
+            "address": "Magadi Main Rd, next to Prasanna Theatre, Cholourpalya, Bengaluru, Karnataka 560023",
+            "lattitude": 12.9739999771118,
+            "longitude": 77.551399230957,
+            "type": 6
+          },
+          {
+            "a": 130,
+            "name": "Orion Mall",
+            "state": "Maharashtra",
+            "city": "bengaluru",
+            "address": "Dr Rajkumar Road, Rajajinagar,",
+            "lattitude": 13.011065,
+            "longitude": 77.554534,
+            "type": 6
+          },
+          {
+            "a": 131,
+            "name": "Phoenix Market City",
+            "state": "Maharashtra",
+            "city": "pune",
+            "address": "S No 207, Viman Nagar Road, Phoenix Road, Viman Nagar, Pune, Maharashtra",
+            "lattitude": 18.5619189099244,
+            "longitude": 73.9166807269854,
+            "type": 6
+          },
+          {
+            "a": 154,
+            "name": "The Bangalore Bakery",
+            "state": "Maharashtra",
+            "city": "bengaluru",
+            "address": "No 30, Ground Floor, 1st Cross Road, Malleshwaram,",
+            "lattitude": 12.9941754,
+            "longitude": 77.57121,
+            "type": 6
+          },
+          {
+            "a": 164,
+            "name": "CopaCabana",
+            "state": "Maharashtra",
+            "city": "pune",
+            "address": "Near, Aundh-Wakad Road, Jagtap Dairy Rd, Vishal Nagar, Pune, Maharashtra 411027",
+            "lattitude": 18.5887678,
+            "longitude": 73.7825231,
+            "type": 6
+          },
+          {
+            "a": 194,
+            "name": "Benjamin Bangalee",
+            "state": "Maharashtra",
+            "city": "kolkata",
+            "address": "P/122, James Long Sarani, Majhipara, Kolkata, West Bengal",
+            "lattitude": 22.4668437,
+            "longitude": 88.3111551,
+            "type": 6
+          },
+          {
+            "a": 204,
+            "name": "Focus Mall",
+            "state": "Maharashtra",
+            "city": "calicut",
+            "address": "Rajaji Road, Calicut-  Kerala, India",
+            "lattitude": 11.2586377,
+            "longitude": 75.7857046,
+            "type": 6
+          },
+          {
+            "a": 206,
+            "name": "Grand Mall, Kochi",
+            "state": "Maharashtra",
+            "city": "kochi",
+            "address": "Panvel - Kochi - Kanyakumari Hwy, Toll Junction, Edappally, Kochi, Kerala",
+            "lattitude": 10.0244123,
+            "longitude": 76.3089558,
+            "type": 6
+          },
+          {
+            "a": 207,
+            "name": "Hotel House Inn",
+            "state": "Maharashtra",
+            "city": "noida",
+            "address": "BS-100, Basai, Sector 70, Noida, Uttar Pradesh",
+            "lattitude": 28.5952291,
+            "longitude": 77.3822213,
+            "type": 6
+          },
+          {
+            "a": 209,
+            "name": "Dosa Magic",
+            "state": "Maharashtra",
+            "city": "indore",
+            "address": "147 B, Moon Palace Colony, Near Annapurna Police Station, Annapurna Road, Indore",
+            "lattitude": 22.6959754,
+            "longitude": 75.8422103,
+            "type": 6
+          },
+          {
+            "a": 218,
+            "name": "Aspire - Step Inn Sector 27",
+            "state": "Maharashtra",
+            "city": "gurugram",
+            "address": "opposite Jan Pratinidhi Apartments, Sector 27, Gurugram, Haryana 122009",
+            "lattitude": 28.4672823,
+            "longitude": 77.0927632,
+            "type": 6
+          },
+          {
+            "a": 219,
+            "name": "Veg Aroma",
+            "state": "Maharashtra",
+            "city": "nashik",
+            "address": "Gangapur Rd, Kale Nagar, Viveka Nand Nagar, Anandvalli, Nashik, Maharashtra ,Gangapur Road",
+            "lattitude": 20.0120574,
+            "longitude": 73.7461884,
+            "type": 6
+          },
+          {
+            "a": 220,
+            "name": "The Cobble Street",
+            "state": "Maharashtra",
+            "city": "nashik",
+            "address": "Gangapur-Savargaon Rd, Nashik, Maharashtra",
+            "lattitude": 20.0144062,
+            "longitude": 73.6983448,
+            "type": 6
+          },
+          {
+            "a": 221,
+            "name": "Brown Bites II",
+            "state": "Maharashtra",
+            "city": "jaipur",
+            "address": "B-42, Sarthi Marg, Bhan Nagar, Jaipur, Rajasthan",
+            "lattitude": 26.901567,
+            "longitude": 75.751926,
+            "type": 6
+          },
+          {
+            "a": 222,
+            "name": "Lodha Florenza",
+            "state": "Maharashtra",
+            "city": "mumbai",
+            "address": "On Western Express Highway, adjacent to Hub Mall, Cama Industrial Estate, Goregaon, Mumbai, Maharashtra ,Goregaon",
+            "lattitude": 19.1538114182866,
+            "longitude": 72.8557957193731,
+            "type": 6
+          },
+          {
+            "a": 223,
+            "name": "Ather Space, Coimbatore",
+            "state": "Maharashtra",
+            "city": "coimbatore",
+            "address": "357, Patel Rd, Ram Nagar, Coimbatore, Tamil Nadu",
+            "lattitude": 11.0113482,
+            "longitude": 76.9598159,
+            "type": 6
+          },
+          {
+            "a": 224,
+            "name": "K Star Chembur",
+            "state": "Maharashtra",
+            "city": "mumbai",
+            "address": "VN Purav Marg Diamond Garden, Basant Garden, Chembur Mumbai, Maharashtra,Chembur",
+            "lattitude": 19.052316305376,
+            "longitude": 72.9016358109368,
+            "type": 6
+          },
+          {
+            "a": 227,
+            "name": "Treehouse Queens Pearl",
+            "state": "Maharashtra",
+            "city": "gurugram",
+            "address": "SH 15A, Shanti Nagar, Shivaji Nagar, Sector 11, Gurugram, Haryana ,Gurgaon",
+            "lattitude": 28.4493495,
+            "longitude": 77.0315967,
+            "type": 6
+          },
+          {
+            "a": 228,
+            "name": "Kala Ghoda Cafe",
+            "state": "Maharashtra",
+            "city": "mumbai",
+            "address": "10, Rope Walk Ln, Kala Ghoda, Fort, Mumbai, Maharashtra",
+            "lattitude": 18.9284545096609,
+            "longitude": 72.8320303138997,
+            "type": 6
+          },
+          {
+            "a": 229,
+            "name": "UB City",
+            "state": "Maharashtra",
+            "city": "bengaluru",
+            "address": "No 24, Vittal Mallya Road, KG Halli, D' Souza Layout, Ashok Nagar,",
+            "lattitude": 12.971406,
+            "longitude": 77.595799,
+            "type": 6
+          },
+          {
+            "a": 232,
+            "name": "Hotel Noida International",
+            "state": "Maharashtra",
+            "city": "noida",
+            "address": "Nagar Complex Noida Road Opposite Mercedes Showroom, Sector 11, Noida, Uttar Pradesh ,Noida",
+            "lattitude": 28.5967575,
+            "longitude": 77.3282689,
+            "type": 6
+          },
+          {
+            "a": 238,
+            "name": "Bellad Towers",
+            "state": "Maharashtra",
+            "city": "hubli",
+            "address": "Ground Floor Bannigida Stop, Gokul Rd",
+            "lattitude": 15.351171,
+            "longitude": 75.126191,
+            "type": 6
+          },
+          {
+            "a": 249,
+            "name": "Ather Space, Trichy",
+            "state": "Maharashtra",
+            "city": "tiruchirappalli",
+            "address": "20/C113, 5th Cross, Thillai Nagar,Trichy - 620018",
+            "lattitude": 10.8240776,
+            "longitude": 78.684925,
+            "type": 6
+          },
+          {
+            "a": 254,
+            "name": "Ather Space, Visakhapatnam",
+            "state": "Maharashtra",
+            "city": "visakhapatnam",
+            "address": "Railway New Colony Rd, Sri Siddi Enclave, Railway New Colony, Visakhapatnam, Andhra Pradesh",
+            "lattitude": 17.727627,
+            "longitude": 83.2957312,
+            "type": 6
+          },
+          {
+            "a": 255,
+            "name": "Hotel Yogi Midtown",
+            "state": "Maharashtra",
+            "city": "mumbai",
+            "address": "Plot No DX 12,Thane - Belapur Road D' Zone Bonsari, Village, TTC Industrial Area, Turbhe, Navi Mumbai, Maharashtra ,Thane",
+            "lattitude": 19.0640261000026,
+            "longitude": 73.0197154300262,
+            "type": 6
+          },
+          {
+            "a": 256,
+            "name": "Breadworld, Jawahar Nagar",
+            "state": "Maharashtra",
+            "city": "kochi",
+            "address": "Subhash Chandra Bose Road,  Jawahar Nagar, Kadavanthra,  Ernakulam, Kerala",
+            "lattitude": 9.9721366,
+            "longitude": 76.3020765,
+            "type": 6
+          },
+          {
+            "a": 261,
+            "name": "AtherSpace JP Nagar",
+            "state": "Maharashtra",
+            "city": "bengaluru",
+            "address": "292, Outer Ring Rd, J P Nagar Phase 5",
+            "lattitude": 12.9062039682694,
+            "longitude": 77.5908095423095,
+            "type": 6
+          },
+          {
+            "a": 262,
+            "name": "Kohinoor MCGM parking",
+            "state": "Maharashtra",
+            "city": "mumbai",
+            "address": "Kohinoor Square, Kasaravadi, Dadar, Mumbai, Maharashtra",
+            "lattitude": 19.0246088948704,
+            "longitude": 72.842820210728,
+            "type": 6
+          },
+          {
+            "a": 263,
+            "name": "AtherGrid - Bhavsar",
+            "state": "Maharashtra",
+            "city": "nashik",
+            "address": "Shop No. 5, ITI Ambad Road Kartikey Nagar Stop, Kamatwade, Nashik, Maharashtra,Kuthwad",
+            "lattitude": 19.9782307026474,
+            "longitude": 73.7468528059045,
+            "type": 6
+          },
+          {
+            "a": 264,
+            "name": "Bhavsar's AtherGrid 2",
+            "state": "Maharashtra",
+            "city": "nashik",
+            "address": "18/08, Rajratna Nagar, Pawan Nagar, Nashik, Maharashtra",
+            "lattitude": 19.9714488737097,
+            "longitude": 73.7559054108409,
+            "type": 6
+          },
+          {
+            "a": 265,
+            "name": "BMC Parking Runwal Greens",
+            "state": "Maharashtra",
+            "city": "mumbai",
+            "address": "Nahur West, Industrial Area, Bhandup West, Mumbai, Maharashtra",
+            "lattitude": 19.1593952,
+            "longitude": 72.945112,
+            "type": 6
+          },
+          {
+            "a": 267,
+            "name": "Trichy Sarathas",
+            "state": "Maharashtra",
+            "city": "tiruchirappalli",
+            "address": "No. 45, NSB Rd, Teppakulam, Tamil Nadu",
+            "lattitude": 10.8267085,
+            "longitude": 78.6959116,
+            "type": 6
+          },
+          {
+            "a": 275,
+            "name": "Tiruppur Sree Annapoorna",
+            "state": "Maharashtra",
+            "city": "coimbatore",
+            "address": "Road, Rayan Kovil, Avinashi, Tamil Nadu",
+            "lattitude": 11.1750315,
+            "longitude": 77.2634385,
+            "type": 6
+          },
+          {
+            "a": 293,
+            "name": "The Smith's Cafe & bakery",
+            "state": "Maharashtra",
+            "city": "chennai",
+            "address": "Balaji Nagar 2nd Cross St, Balaji Nagar, Ponniammanmedu, Chennai, Tamil Nadu",
+            "lattitude": 13.125599,
+            "longitude": 80.2241501,
+            "type": 6
+          },
+          {
+            "a": 311,
+            "name": "Precision Path Lab",
+            "state": "Maharashtra",
+            "city": "jaipur",
+            "address": "72/2, Shipra Path, Patel Marg, Mansarovar, Jaipur, Rajasthan",
+            "lattitude": 26.8547202,
+            "longitude": 75.7731708,
+            "type": 6
+          },
+          {
+            "a": 312,
+            "name": "Ather Space Goa",
+            "state": "Maharashtra",
+            "city": "goa",
+            "address": "Betim-Pomburpa Rd, Alto- Betim Porvorim, Penha de Franu00e7a, Goa",
+            "lattitude": 15.5230657,
+            "longitude": 73.825913,
+            "type": 6
+          },
+          {
+            "a": 313,
+            "name": "Ather test ride centre",
+            "state": "Maharashtra",
+            "city": "hyderabad",
+            "address": "160/1, Patny Center, Sardar Patel Rd, Hyderabad, Telangana",
+            "lattitude": 17.4435458,
+            "longitude": 78.4798274,
+            "type": 6
+          },
+          {
+            "a": 314,
+            "name": "Prestige Khoday Tower",
+            "state": "Maharashtra",
+            "city": "bengaluru",
+            "address": "No 5, Raj Bhavan Road, Vasanth Nagar",
+            "lattitude": 12.982728,
+            "longitude": 77.594179,
+            "type": 6
+          },
+          {
+            "a": 315,
+            "name": "Prestige Saleh Ahmed",
+            "state": "Maharashtra",
+            "city": "bengaluru",
+            "address": "No 24, Lady Curzon Road, Tasker Town, Shivaji Nagar,",
+            "lattitude": 12.980553,
+            "longitude": 77.603318,
+            "type": 6
+          },
+          {
+            "a": 316,
+            "name": "Mama Panda",
+            "state": "Maharashtra",
+            "city": "vijayawada",
+            "address": "Royal arcade, beside sweet magic , opp to dvmanor, MG Rd, Vijayawada, Andhra Pradesh",
+            "lattitude": 16.4992397,
+            "longitude": 80.6481963,
+            "type": 6
+          },
+          {
+            "a": 322,
+            "name": "Inox R21",
+            "state": "Maharashtra",
+            "city": "ahmedabad",
+            "address": "Plot No 145, 2nd Floor, Royal Honda Showroom, Sector 21, Gandhinagar, Gujarat",
+            "lattitude": 23.2316208,
+            "longitude": 72.6682058,
+            "type": 6
+          },
+          {
+            "a": 323,
+            "name": "Inox R16",
+            "state": "Maharashtra",
+            "city": "ahmedabad",
+            "address": "Cluster_gandhinagar 2 Office, Sector 16, Gandhinagar, Gujarat",
+            "lattitude": 23.2310524,
+            "longitude": 72.648583,
+            "type": 6
+          },
+          {
+            "a": 324,
+            "name": "Acre Bengaluru",
+            "state": "Maharashtra",
+            "city": "bengaluru",
+            "address": "No 63 , International Airport Road, Meenugunte, Jala Hobli, Yelahanka, Taluk",
+            "lattitude": 13.189056,
+            "longitude": 77.644524,
+            "type": 6
+          },
+          {
+            "a": 327,
+            "name": "The Wood Apple Cafe",
+            "state": "Maharashtra",
+            "city": "siliguri",
+            "address": "SONARTORI VILLAGE, Patel Road, Ward 2, Pradhan Nagar, Siliguri, West Bengal 734003",
+            "lattitude": 26.7286006,
+            "longitude": 88.4163575,
+            "type": 6
+          },
+          {
+            "a": 328,
+            "name": "The Cindrella Hotel",
+            "state": "Maharashtra",
+            "city": "siliguri",
+            "address": "3rd Mile, Sevoke Rd, Chayan Para, Salugara, Siliguri, West Bengal 734008",
+            "lattitude": 26.7555785,
+            "longitude": 88.4418232,
+            "type": 6
+          },
+          {
+            "a": 329,
+            "name": "Cafe Cornucopia",
+            "state": "Maharashtra",
+            "city": "mysore",
+            "address": "22nd Cross, 14th Main Rd, C Block, Vijay Nagar 3rd Stage, Garudachar Layout",
+            "lattitude": 12.316689,
+            "longitude": 76.603223,
+            "type": 6
+          },
+          {
+            "a": 339,
+            "name": "Ather Space Nagole",
+            "state": "Maharashtra",
+            "city": "hyderabad",
+            "address": "Near Sunrise cars, Plot no.64/B, Mamatha Nagar, Nagole X Road, near Supraja Hospital, Hyderabad, Telangana",
+            "lattitude": 17.377497,
+            "longitude": 78.5580849,
+            "type": 6
+          },
+          {
+            "a": 340,
+            "name": "MGS Tata Autofab",
+            "state": "Maharashtra",
+            "city": "lucknow",
+            "address": "C 52, Tedhi Pulia, Ring Road, Near Jagrani Hospital, Lucknow - 226022, Uttar Pradesh, India",
+            "lattitude": 26.8979557,
+            "longitude": 80.9664589,
+            "type": 6
+          },
+          {
+            "a": 345,
+            "name": "MR Hypermarket",
+            "state": "Maharashtra",
+            "city": "calicut",
+            "address": "Wayanad Rd, Moozhikkal, Kozhikode, Kerala",
+            "lattitude": 11.296198,
+            "longitude": 75.8307817,
+            "type": 6
+          },
+          {
+            "a": 347,
+            "name": "Mitraa Super Market",
+            "state": "Maharashtra",
+            "city": "visakhapatnam",
+            "address": "BRTS Rd, A Zone, Sujatha Nagar, Pendurthi, Visakhapatnam, Andhra Pradesh",
+            "lattitude": 17.799256,
+            "longitude": 83.210797,
+            "type": 6
+          },
+          {
+            "a": 352,
+            "name": "Hyatt Raipur",
+            "state": "Maharashtra",
+            "city": "raipur",
+            "address": "National Highway 6, Jivan Vihar, Labhandih, Chhattisgarh",
+            "lattitude": 21.239994,
+            "longitude": 81.6840898,
+            "type": 6
+          },
+          {
+            "a": 362,
+            "name": "The Chocolate Room, Bangalore",
+            "state": "Maharashtra",
+            "city": "bengaluru",
+            "address": "No 412, 4th G Main Road, 2nd Block, HRBR Layout, Kalyan Nagar,",
+            "lattitude": 13.022915,
+            "longitude": 77.639338,
+            "type": 6
+          },
+          {
+            "a": 368,
+            "name": "Lakshmi Pazhamudir And Supermarket",
+            "state": "Maharashtra",
+            "city": "coimbatore",
+            "address": "post Gas company, Mettupalayam Rd, Ranganayaki Nagar, Dhamu Nagar, Therkkuppalayam, Coimbatore, Tamil Nadu",
+            "lattitude": 11.138138477319,
+            "longitude": 76.9407310322839,
+            "type": 6
+          },
+          {
+            "a": 370,
+            "name": "MR Hyper Market, Wayanad Road",
+            "state": "Maharashtra",
+            "city": "calicut",
+            "address": "8V9M+CM3, Kozhikode, Kerala",
+            "lattitude": 11.3185163,
+            "longitude": 75.8842814,
+            "type": 6
+          },
+          {
+            "a": 378,
+            "name": "Naksh Auto World",
+            "state": "Maharashtra",
+            "city": "ghaziabad",
+            "address": "Maharaja Agarsain Marg, Mohan Meakin Society, Sector 5, Vasundhara, Ghaziabad, Uttar Pradesh 201012",
+            "lattitude": 28.6635603,
+            "longitude": 77.3740057,
+            "type": 6
+          },
+          {
+            "a": 386,
+            "name": "Turf Trident",
+            "state": "Maharashtra",
+            "city": "chennai",
+            "address": "56, Lakeview garden, Korattur",
+            "lattitude": 13.1221926,
+            "longitude": 80.1890017,
+            "type": 6
+          },
+          {
+            "a": 387,
+            "name": "Ather Space Tirupati",
+            "state": "Maharashtra",
+            "city": "tirupati",
+            "address": "Vedhavyasa Bhavan, AIR Bypass Road, Royal Nagar, Tirupati, Andhra Pradesh",
+            "lattitude": 13.6226445,
+            "longitude": 79.414697,
+            "type": 6
+          },
+          {
+            "a": 388,
+            "name": "Area 51 - The cafu00e9 hideout",
+            "state": "Maharashtra",
+            "city": "visakhapatnam",
+            "address": "Area 51- The cafu00e9 hideout, Hill view conventions, IT Sez,Hill No.2 Plot-F,on the way to Mouri tech, Andhra Pradesh",
+            "lattitude": 17.8083501,
+            "longitude": 83.3888006,
+            "type": 6
+          },
+          {
+            "a": 389,
+            "name": "Ather Space  Aurangabad",
+            "state": "Maharashtra",
+            "city": "aurangabad",
+            "address": "Gopinath Chambers, Adalat Rd, near Chunilal Petrol Pump, Konkanwadi, Aurangabad, Maharashtra",
+            "lattitude": 19.871912330989,
+            "longitude": 75.3251880766865,
+            "type": 6
+          },
+          {
+            "a": 390,
+            "name": "Ather space, Malappuram",
+            "state": "Maharashtra",
+            "city": "malappuram",
+            "address": "SH 72, Kizhakkethala, Down Hill, Malappuram, Kerala 676505",
+            "lattitude": 11.0522217,
+            "longitude": 76.0753978,
+            "type": 6
+          },
+          {
+            "a": 411,
+            "name": "Hitech Motors",
+            "state": "Maharashtra",
+            "city": "tirupati",
+            "address": "Kanigiri - Tirupathi Rd, SV Auto Nagar, Tirupati, Andhra Pradesh",
+            "lattitude": 13.6292765,
+            "longitude": 79.4619883,
+            "type": 6
+          },
+          {
+            "a": 419,
+            "name": "Hotel Rasraj Parking Zone",
+            "state": "Maharashtra",
+            "city": "mumbai",
+            "address": "Gaurav Automobile Compound, ,Ramnath Rd, opp. BVM Multiplex,",
+            "lattitude": 18.6509966955593,
+            "longitude": 72.8740709203267,
+            "type": 6
+          },
+          {
+            "a": 420,
+            "name": "Crazy Coffee",
+            "state": "Maharashtra",
+            "city": "jaipur",
+            "address": "Shop no. 9, Vardhman Nagar, near PUNO 200ft By Pass, Ajmer Rd, Jaipur",
+            "lattitude": 26.8838799908114,
+            "longitude": 75.7397918152921,
+            "type": 6
+          },
+          {
+            "a": 421,
+            "name": "Sultan of Flavours Restaurant",
+            "state": "Maharashtra",
+            "city": "palakkad",
+            "address": "Stadium Bypass Rd, Sultanpet, Palakkad",
+            "lattitude": 10.7672515526727,
+            "longitude": 76.6603123172791,
+            "type": 6
+          },
+          {
+            "a": 422,
+            "name": "Kalanthans Cafe",
+            "state": "Maharashtra",
+            "city": "kochi",
+            "address": "Palarivattom, Kochi",
+            "lattitude": 10.0026011738437,
+            "longitude": 76.3040071197043,
+            "type": 6
+          },
+          {
+            "a": 423,
+            "name": "Devaragam Hotel",
+            "state": "Maharashtra",
+            "city": "trichur",
+            "address": "Outer Ring Road, Opp Railway Station, East Nada, Guruvayur",
+            "lattitude": 10.595564727206,
+            "longitude": 76.0443370352623,
+            "type": 6
+          },
+          {
+            "a": 436,
+            "name": "Jaika Motors, Civil Lines",
+            "state": "Maharashtra",
+            "city": "Nagpur",
+            "address": "Jaika Motors Pvt Ltd.Post Box No.1 Commercial Road Civil Lines Nagpur 440001",
+            "lattitude": 21.155667,
+            "longitude": 79.078708,
+            "type": 7
+          },
+          {
+            "a": 437,
+            "name": "IOCL Kini Causway, Bandra",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "36, SV Rd, Santosh Nagar, Bandra West, Mumbai, Maharashtra 400050",
+            "lattitude": 19.051601,
+            "longitude": 72.838011,
+            "type": 7
+          },
+          {
+            "a": 442,
+            "name": "Vikarsh Nano technology, Dhangarwadi",
+            "state": "Maharashtra",
+            "city": "Satara",
+            "address": "Vikarsh Nano technology & Alloys pvt ltd, Gat No 273&274, Dhangarwadi village Tal- Khandala, Shirwal Dist- Satara 412801",
+            "lattitude": 18.11289,
+            "longitude": 73.98985,
+            "type": 7
+          },
+          {
+            "a": 446,
+            "name": "Lilium Park, SH 44",
+            "state": "Maharashtra",
+            "city": "Ahmednagar",
+            "address": "Hotel Lilium Park State Highway 44, Opp. Lemon Tree Hotel, Ahmednagar, Maharashtra 414106",
+            "lattitude": 19.26433634,
+            "longitude": 74.82719974,
+            "type": 7
+          },
+          {
+            "a": 450,
+            "name": "IOCL - COCO WRD, Agarkar Nagar",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Agarkar Nagar, Pune, Maharashtra 411001",
+            "lattitude": 18.5269679,
+            "longitude": 73.8655123,
+            "type": 7
+          },
+          {
+            "a": 462,
+            "name": "Jadhav Solar & Automotives, Badnera",
+            "state": "Maharashtra",
+            "city": "Amravati, MH",
+            "address": "Jadhav Solar & Automotives Pvt.  Ltd., Jadhav E-Vehicles, Ground floor, Rangoli Pearl Hotel, Nawathe Square, Badnera Road, Amravati, MH- 444607",
+            "lattitude": 20.909443,
+            "longitude": 77.7522447,
+            "type": 7
+          },
+          {
+            "a": 463,
+            "name": "IOCL - SUJIT AUTOMOBILES, Bangalore-Kanyakumari Road",
+            "state": "Maharashtra",
+            "city": "Butibori",
+            "address": "Bangalore - Salem - Madurai - Kanyakumari Road, Butibori, Maharashtra 441108",
+            "lattitude": 20.92258656,
+            "longitude": 78.99986387,
+            "type": 7
+          },
+          {
+            "a": 467,
+            "name": "IOCL Sahara Hospitality, Vile Parle",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "opp. Domestic Airport, Navpada, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400099",
+            "lattitude": "",
+            "longitude": "",
+            "type": 7
+          },
+          {
+            "a": 468,
+            "name": "Hotel Parivar, Mehkar Buldhana",
+            "state": "Maharashtra",
+            "city": "Buldhana",
+            "address": "SH-207, Mehkar Malegaon Karanja Road, Mehkar, Buldhana Maharashtra - 443301",
+            "lattitude": "",
+            "longitude": "",
+            "type": 7
+          },
+          {
+            "a": 469,
+            "name": "Hotel Sanskruti , Trambakeshwar Rd",
+            "state": "Maharashtra",
+            "city": "Nashik",
+            "address": "Trambakeshwar Rd, Belgaon Dhaga, Nashik, Maharashtra 422007",
+            "lattitude": 19.973146,
+            "longitude": 73.68105,
+            "type": 7
+          },
+          {
+            "a": 476,
+            "name": "Ace Kudale Cycles, Manjri  Bk",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Manjri Bk, Pune, Maharashtra 412307",
+            "lattitude": 18.4957722,
+            "longitude": 73.97893593,
+            "type": 7
+          },
+          {
+            "a": 477,
+            "name": "Hotel Dreamland, ST Main Market Mahabaleshwar",
+            "state": "Maharashtra",
+            "city": "Mahabaleshwar",
+            "address": "BUS STAND, MAIN MARKET, behind S.T, Mahabaleshwar, Maharashtra 412806",
+            "lattitude": 17.92564438,
+            "longitude": 73.65552014,
+            "type": 7
+          },
+          {
+            "a": 481,
+            "name": "Brookfield, Powai",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Spectra, High St, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076",
+            "lattitude": 19.11637,
+            "longitude": 72.91086,
+            "type": 7
+          },
+          {
+            "a": 482,
+            "name": "Brookfield, Powai",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Pay & Park, Central Ave, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076",
+            "lattitude": 19.11644,
+            "longitude": 72.90968,
+            "type": 7
+          },
+          {
+            "a": 485,
+            "name": "Ginger Nashik , Satpur Colony",
+            "state": "Maharashtra",
+            "city": "Nashik",
+            "address": "Plot No P 20 (Part), Satpur MIDC Near Satpur MIDC Police Station (Near Bank of India, Branch Nashik, Trimbakeshwar Rd, MIDC, Satpur Colony, Nashik, Maharashtra 422007",
+            "lattitude": 19.991881,
+            "longitude": 73.743904,
+            "type": 7
+          },
+          {
+            "a": 486,
+            "name": "TML- Sterling Motors , Renuka Nagar",
+            "state": "Maharashtra",
+            "city": "Nashik",
+            "address": "PB No 033, Old Agra Rd, Gadkari Chowk, Renuka Nagar, Nashik, Maharashtra 422001",
+            "lattitude": 19.9932,
+            "longitude": 73.783133,
+            "type": 7
+          },
+          {
+            "a": 488,
+            "name": "Satish Motors, Wanjarwadi",
+            "state": "Maharashtra",
+            "city": "Aurangabad",
+            "address": "Plot No72/1 Saharanpur, Wanjarwadi Aurangabad 431002",
+            "lattitude": 19.911983,
+            "longitude": 75.232932,
+            "type": 7
+          },
+          {
+            "a": 489,
+            "name": "Heritage Motors, Ghodbunder",
+            "state": "Maharashtra",
+            "city": "Thane",
+            "address": "Rosa Vista, MH SH 42, opp. Suraj Water Park, Thane, Maharashtra 400607",
+            "lattitude": 19.25612,
+            "longitude": 72.97145,
+            "type": 7
+          },
+          {
+            "a": 493,
+            "name": "Smile Stone Motels, Kamargaon",
+            "state": "Maharashtra",
+            "city": "Ahmednagar",
+            "address": "76/B, Nagar-Pune Road, Kamargaon, Ahmednagar,Maharashtra-411 005",
+            "lattitude": 18.9852363,
+            "longitude": 74.5760075,
+            "type": 7
+          },
+          {
+            "a": 512,
+            "name": "Four Points By Sheraton Hotel, Nagar Road",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "5th Milestone, Nagar Road, Pune - 411014",
+            "lattitude": 18.562826,
+            "longitude": 73.922392,
+            "type": 7
+          },
+          {
+            "a": 523,
+            "name": "Panvel Industrial Fastners, Mum-Pune Expressway",
+            "state": "Maharashtra",
+            "city": "Navi Mumbai",
+            "address": "Next MGL CNG Station, 29/37 Jawahar Coop Industrial Estate , On Mumbai - Pune Express Highway, Taluka, Kamothe, Panvel, Navi Mumbai, Maharashtra 410209",
+            "lattitude": "",
+            "longitude": "",
+            "type": 7
+          },
+          {
+            "a": 528,
+            "name": "Mahati Industries limited, Shankar Sheth Road",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "32/33, Shankar Sheth Road, B/H S T Workshop, Shankar Sheth Road, Pune, Maharashtra-411037",
+            "lattitude": 18.4995583,
+            "longitude": 73.8685639,
+            "type": 7
+          },
+          {
+            "a": 532,
+            "name": "IOCL - Jopadevi Petroleum, Talegaon-Chakan Rd",
+            "state": "Maharashtra",
+            "city": "Khalumbre",
+            "address": "Talegaon-Chakan Rd, Khalumbre, Maharashtra 410501",
+            "lattitude": "",
+            "longitude": "",
+            "type": 7
+          },
+          {
+            "a": 533,
+            "name": "IOCL - Trishul Service Station, Pimpri-Chinchwad",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "T-163, MIDC Bhosari, Pune, MIDC, Bhosari, Pimpri-Chinchwad, Piune-411026",
+            "lattitude": 18.6209574,
+            "longitude": 73.8299842,
+            "type": 7
+          },
+          {
+            "a": 547,
+            "name": "Zostel, Dandeghar",
+            "state": "Maharashtra",
+            "city": "Panchgani",
+            "address": "Panchgani, Wai, Main Road, Dandeghar, Maharashtra 412805",
+            "lattitude": 17.9335258,
+            "longitude": 73.8158574,
+            "type": 7
+          },
+          {
+            "a": 548,
+            "name": "Rama Automobiles, Patilwada",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Ground Floor Pune Nasik Highway, Manchar, Shevawadi, behind Morde Food Product Company, Patilwada, Pune, Maharashtra 410503",
+            "lattitude": 18.99132729,
+            "longitude": 73.94277954,
+            "type": 7
+          },
+          {
+            "a": 549,
+            "name": "Hotel Temple View, Sai Nagar",
+            "state": "Maharashtra",
+            "city": "Shirdi",
+            "address": "Sai Murali Complex, Manmad Rd, opp. Sai Temple Nagar, Sai Nagar, Shirdi, Maharashtra 423109",
+            "lattitude": 19.7650352,
+            "longitude": 74.4754592,
+            "type": 7
+          },
+          {
+            "a": 554,
+            "name": "Oberoi Mall, Goregaon",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Western Express Hwy, Yashodham, Goregaon, Mumbai, Maharashtra 400063",
+            "lattitude": 19.1737611,
+            "longitude": 72.8600172,
+            "type": 7
+          },
+          {
+            "a": 555,
+            "name": "Oberoi Mall, Goregaon",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Western Express Hwy, Yashodham, Goregaon, Mumbai, Maharashtra 400063",
+            "lattitude": 19.1737611,
+            "longitude": 72.8600172,
+            "type": 7
+          },
+          {
+            "a": 562,
+            "name": "Trimurti Petroleum, Panvel",
+            "state": "Maharashtra",
+            "city": "Navi Mumbai",
+            "address": "GUT NO.151/2, VILLAGE - AJIVALI, TALUKA - PANVEL, RAIGAD, AJIVALI, 410216",
+            "lattitude": 18.9563188,
+            "longitude": 73.1626506,
+            "type": 7
+          },
+          {
+            "a": 570,
+            "name": "Sonaee Veg Family Restaurant, Pune-Solapur Highway",
+            "state": "Maharashtra",
+            "city": "Uruli Kanchan",
+            "address": "National Highway 65 Yavat, Uruli Kanchan, Maharashtra 412202",
+            "lattitude": 18.487405,
+            "longitude": 74.146125,
+            "type": 7
+          },
+          {
+            "a": 578,
+            "name": "The Grand Legacy, Panchgani-Mahabaleshwar Road",
+            "state": "Maharashtra",
+            "city": "Mahabaleshwar",
+            "address": "Panchgani-Mahabaleshwar Road, Post. Met-Gutad, behind Saj Resort by Club Mahindra, Mahabaleshwar, Maharashtra 412806",
+            "lattitude": 17.92655754,
+            "longitude": 73.69586565,
+            "type": 7
+          },
+          {
+            "a": 579,
+            "name": "The Grand Legacy, Panchgani-Mahabaleshwar Road",
+            "state": "Maharashtra",
+            "city": "Mahabaleshwar",
+            "address": "Panchgani-Mahabaleshwar Road, Post. Met-Gutad, behind Saj Resort by Club Mahindra, Mahabaleshwar, Maharashtra 412806",
+            "lattitude": 17.92655754,
+            "longitude": 73.69586565,
+            "type": 7
+          },
+          {
+            "a": 589,
+            "name": "Morya Transport Terminus, MIDC Bhosari",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Plot no BGP 109 Village MIDC Bhosari Taluka Haveli Pune 411026",
+            "lattitude": 18.621396,
+            "longitude": 73.8384375,
+            "type": 7
+          },
+          {
+            "a": 619,
+            "name": "The Gateway Hotel, Ambad",
+            "state": "Maharashtra",
+            "city": "Nashik",
+            "address": "Ambad, Nashik, Maharashtra-422010",
+            "lattitude": 19.9594519,
+            "longitude": 73.7591054,
+            "type": 7
+          },
+          {
+            "a": 620,
+            "name": "AB Infra Limited, old MIDC",
+            "state": "Maharashtra",
+            "city": "Latur",
+            "address": "Plot No- F-54, old MIDC, Latur- 413531",
+            "lattitude": 18.4159831,
+            "longitude": 76.5356299,
+            "type": 7
+          },
+          {
+            "a": 621,
+            "name": "Hansa Motors, Buttibori",
+            "state": "Maharashtra",
+            "city": "Nagpur",
+            "address": "NH 07, Plot no-X-273, Near Rajnayan Petrol Pump, Buttibori, Nagpur-441122",
+            "lattitude": 20.9286205,
+            "longitude": 79.001812,
+            "type": 7
+          },
+          {
+            "a": 626,
+            "name": "Hotel Suba International, Andheri East",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Saharu00c2u00a0 Road, Near Cigarret Factory, Chakala, Andheri East Mumbai 400099",
+            "lattitude": 19.1063175,
+            "longitude": 72.8603219,
+            "type": 7
+          },
+          {
+            "a": 627,
+            "name": "Hotel Suba Galaxy, Andheri East",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "NS Phadake Marg, Opp Teli galli,Near Eastern expres Highway, Andheri East Mumbai 400069u00c2u00a0",
+            "lattitude": 19.1142415,
+            "longitude": 72.8518766,
+            "type": 7
+          },
+          {
+            "a": 628,
+            "name": "Hotel Suba Palace, Fort",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Apppllo Bunder Road, Near Gate way of India, fortu00c2u00a0 Mumbai 400039",
+            "lattitude": 18.9241214,
+            "longitude": 72.8328155,
+            "type": 7
+          },
+          {
+            "a": 631,
+            "name": "Click Hotel, Rane Nagar",
+            "state": "Maharashtra",
+            "city": "Nashik",
+            "address": "904, Mumbai - Agra National Hwy, opposite Orchid International, Rane Nagar, Nashik, Maharashtra 422009, India",
+            "lattitude": 19.9625471,
+            "longitude": 73.7652956,
+            "type": 7
+          },
+          {
+            "a": 633,
+            "name": "Click Hotel, Cidco",
+            "state": "Maharashtra",
+            "city": "Aurangabad",
+            "address": "Phulambri - Sillod Rd, Hudco, Yadav Nagar, N 11, Cidco, Aurangabad, Maharashtra 431003",
+            "lattitude": 19.9116134,
+            "longitude": 75.348291,
+            "type": 7
+          },
+          {
+            "a": 658,
+            "name": "Volltic PCS03",
+            "state": "Maharashtra",
+            "city": "Indore",
+            "address": "Paschim vidyut vitran co Ltd, GPH compound, Indore, Pologround,madhya pradesh",
+            "lattitude": 22.73778248,
+            "longitude": 75.8612835,
+            "type": 13
+          },
+          {
+            "a": 659,
+            "name": "Volltic PCS04",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Gala No14 A, KBM compound, military road, raje shivaji nagar, marol, andheri east, 400072",
+            "lattitude": 19.12012455,
+            "longitude": 72.88724762,
+            "type": 13
+          },
+          {
+            "a": 715,
+            "name": "Vijay Securities",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "35, Chandivali, Off, Saki Vihar Rd, Andheri (E, Mumbai, 400072",
+            "lattitude": 19.10514321,
+            "longitude": 72.8869012,
+            "type": 8
+          },
+          {
+            "a": 716,
+            "name": "Masstech controls Pvt ltd",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "2/7 Meghal Industrial Estate, Devidayal Road, Mulund West, Mumbai, Maharashtra 400080",
+            "lattitude": 19.17674569,
+            "longitude": 72.94574801,
+            "type": 8
+          },
+          {
+            "a": 717,
+            "name": "EESL Nagpur",
+            "state": "Maharashtra",
+            "city": "Nagpur",
+            "address": "Nagpur Songaon, Maharashtra, Songaon Nagpur India - 440019",
+            "lattitude": 21.0870127,
+            "longitude": 79.0636227,
+            "type": 8
+          },
+          {
+            "a": 799,
+            "name": "HPCL Autocare Sajgaon",
+            "state": "Maharashtra",
+            "city": "lonavala",
+            "address": "Dahivati Tarf Boreti, Maharashtra 410203",
+            "lattitude": 18.79320299,
+            "longitude": 73.29699392,
+            "type": 18
+          },
+          {
+            "a": 800,
+            "name": "Lifeon Industries",
+            "state": "Maharashtra",
+            "city": "navi mumbai",
+            "address": "D298, TTC Industrial area, turbhe",
+            "lattitude": 19.06895357,
+            "longitude": 73.02251015,
+            "type": 18
+          },
+          {
+            "a": 808,
+            "name": "Hemank Auto Parts",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "B-5 Electronic Estate,MIDC,Bhosari,Pune",
+            "lattitude": 18.621902,
+            "longitude": 73.82497,
+            "type": 18
+          },
+          {
+            "a": 809,
+            "name": "HPCL autocare,Sajgaon",
+            "state": "Maharashtra",
+            "city": "Sajgaon",
+            "address": "Autocare centre,COCO VIII,Mumbai-Pune express.Khalapur Toll Naka Sajgaon",
+            "lattitude": 18.793453,
+            "longitude": 73.297219,
+            "type": 18
+          },
+          {
+            "a": 811,
+            "name": "MH|MUMBAI|POWAI#HIRANANDANI GARDENS",
+            "state": "Maharashtra",
+            "city": "MUMBAI",
+            "address": "TECHNOLOGY ST,HIRANANADANI GARDENS,SAINATH NAGAR,POWAI,MUMBAI,MAHARASHTARA 400076",
+            "lattitude": 19.11999443,
+            "longitude": 72.9141036,
+            "type": ""
+          },
+          {
+            "a": 812,
+            "name": "MH|TALASARI|HOTEL SAHYADRI",
+            "state": "Maharashtra",
+            "city": "MUMBAI",
+            "address": "HOTEL SAHYADRI,TALASARI,AJMER ROAD,ACHAD,MAHARASHTRA 401606",
+            "lattitude": 20.22117727,
+            "longitude": 72.88122971,
+            "type": ""
+          },
+          {
+            "a": 865,
+            "name": "McDonalds",
+            "state": "Maharashtra",
+            "city": "Kolhapur",
+            "address": "Shop No 1C, Hissa No 1, Plot No 1/K1, next to Klin Fuel Technology, Sarnobatwadi Kolhapur Maharashtra 416004",
+            "lattitude": 16.6869187,
+            "longitude": 74.2703805,
+            "type": 21
+          },
+          {
+            "a": 1143,
+            "name": "Hemank Auto Parts",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "B-5 Electronic Estate,MIDC,Bhosari,Pune",
+            "lattitude": 18.621902,
+            "longitude": 73.82497,
+            "type": 18
+          },
+          {
+            "a": 1144,
+            "name": "HPCL autocare,Sajgaon",
+            "state": "Maharashtra",
+            "city": "Sajgaon",
+            "address": "Autocare centre,COCO VIII,Mumbai-Pune express.Khalapur Toll Naka Sajgaon",
+            "lattitude": 18.793453,
+            "longitude": 73.297219,
+            "type": 18
+          },
+          {
+            "a": 1145,
+            "name": "MH|MUMBAI|POWAI#HIRANANDANI GARDENS",
+            "state": "Maharashtra",
+            "city": "MUMBAI",
+            "address": "TECHNOLOGY ST,HIRANANADANI GARDENS,SAINATH NAGAR,POWAI,MUMBAI,MAHARASHTARA 400076",
+            "lattitude": 19.12,
+            "longitude": 72.9141,
+            "type": 24
+          },
+          {
+            "a": 1146,
+            "name": "MH|TALASARI|HOTEL SAHYADRI",
+            "state": "Maharashtra",
+            "city": "MUMBAI",
+            "address": "HOTEL SAHYADRI,TALASARI,AJMER ROAD,ACHAD,MAHARASHTRA 401606",
+            "lattitude": 20.2212,
+            "longitude": 72.8812,
+            "type": 24
+          },
+          {
+            "a": 1148,
+            "name": "McDonalds",
+            "state": "Maharashtra",
+            "city": "Kolhapur",
+            "address": "Shop No 1C, Hissa No 1, Plot No 1/K1, next to Klin Fuel Technology, Sarnobatwadi Kolhapur Maharashtra 416004",
+            "lattitude": 16.6869187,
+            "longitude": 74.2703805,
+            "type": 21
+          },
+          {
+            "a": 1149,
+            "name": "Select Cars, Sanath Nagar",
+            "state": "Maharashtra",
+            "city": "Hyderabad",
+            "address": "B-51, APIIC Rd, IDA Kukatpally, Sanath Nagar, Hyderabad, Telangana 500018",
+            "lattitude": 17.45608,
+            "longitude": 78.44656,
+            "type": 7
+          },
+          {
+            "a": 1150,
+            "name": "Select Cars, Alkapuri",
+            "state": "Maharashtra",
+            "city": "Hyderabad",
+            "address": "ALKAPURI X ROADS, Nagole, Hyderabad, Telangana 500068",
+            "lattitude": 17.3649,
+            "longitude": 78.55747,
+            "type": 7
+          },
+          {
+            "a": 1151,
+            "name": "Ginger Mumbai, Andheri East",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Teli - Gali Road, Andheri (East), Mumbai - 400069",
+            "lattitude": 19.11599,
+            "longitude": 72.85018,
+            "type": 7
+          },
+          {
+            "a": 1152,
+            "name": "Tata Power RS, Versova",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "KL Walawalkar Marg, Sahayog Nagar, Bhudargarh Colony, Andheri West, Mumbai, Maharashtra 400102",
+            "lattitude": 19.13052,
+            "longitude": 72.83056,
+            "type": 7
+          },
+          {
+            "a": 1153,
+            "name": "Inderjit Cars, Andheri West",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "1059/1060, Adarsh nagar, near infinity mall, Off New Link Road, Andheri West, Mumbai, Maharashtra 400053",
+            "lattitude": 19.14207,
+            "longitude": 72.83241,
+            "type": 7
+          },
+          {
+            "a": 1154,
+            "name": "Heritage Motors, Panchpakhadi",
+            "state": "Maharashtra",
+            "city": "Thane",
+            "address": "3/4, Meena Apartment, Panchpakhadi, Eastern Exp Highway, Thane West u00e2u0080u0093 Pokran Upvan, Thane - 400606",
+            "lattitude": 19.1972,
+            "longitude": 72.96321,
+            "type": 7
+          },
+          {
+            "a": 1155,
+            "name": "Tata Power, Vikhroli",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "The Tata Power Company Limited, 400 kV Project, Vikhroli Sub Station, Godrej Soap Premises, Vikhroli (East), Mumbai 400079",
+            "lattitude": 19.095269,
+            "longitude": 72.926195,
+            "type": 7
+          },
+          {
+            "a": 1159,
+            "name": "Rudra Motors, Wagholi",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Gat No.1343/A, Near Ubale Nagar Bus Stop, Wagholi-412207",
+            "lattitude": 18.57391,
+            "longitude": 73.9589,
+            "type": 7
+          },
+          {
+            "a": 1160,
+            "name": "Bafna, Tathawade",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Gate No. 129/2B/1, Mumbai Bangalore Express Highway,Ashok Nagar, Tathawade, Pune-411033",
+            "lattitude": 18.62343,
+            "longitude": 73.74568,
+            "type": 7
+          },
+          {
+            "a": 1161,
+            "name": "Croma Pune, Aundh",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Survey No.127/2B/1A Nanasaheb Gaikwad Information Technology Park ITI Road, Near, Sarjaa Rd, Aundh, Pune,411007",
+            "lattitude": 18.55368,
+            "longitude": 73.80696,
+            "type": 7
+          },
+          {
+            "a": 1162,
+            "name": "Godrej One, Vikhroli",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "4 Wheeler Parking area Godrej One Pirojshanagar, Eastern Express Highway, Vikhroli u00e2u0080u0093 East, Mumbai u00e2u0080u0093 400079",
+            "lattitude": 19.0925655,
+            "longitude": 72.9223514,
+            "type": 7
+          },
+          {
+            "a": 1163,
+            "name": "Inderjit Cars, Mira Road",
+            "state": "Maharashtra",
+            "city": "Thane",
+            "address": "Platinum Building, Ground Floor,Opp. Pleasant Park,Next To Brand Factory Showroom,Mira Road-401107",
+            "lattitude": 19.277922,
+            "longitude": 72.880256,
+            "type": 7
+          },
+          {
+            "a": 1164,
+            "name": "IOCL, Breach Candy",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Bhulabhai Desai Road, Breach Candy, near Tata Garden, Mumbai, Maharashtra 400026",
+            "lattitude": 18.96555,
+            "longitude": 72.80346,
+            "type": 7
+          },
+          {
+            "a": 1165,
+            "name": "Puneet, Prabadevi",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Lloyds Centre Point, Appasaheb Marathe Marg, Dadar West, Prabhadevi, Mumbai, Maharashtra 400025",
+            "lattitude": 19.01296,
+            "longitude": 72.82652,
+            "type": 7
+          },
+          {
+            "a": 1166,
+            "name": "SAB Motors, Loni Road - Industrial Area",
+            "state": "Maharashtra",
+            "city": "Ghaziabad",
+            "address": "CF 1-1/1 to 1/5 Harsha Compound, Site II, Loni Road Industrial Area, Mohan Nagar, Ghaziabad, Uttar Pradesh - 201007",
+            "lattitude": 28.683213,
+            "longitude": 77.377082,
+            "type": 7
+          },
+          {
+            "a": 1167,
+            "name": "Croma, L.B. Nagar",
+            "state": "Maharashtra",
+            "city": "Hyderabad",
+            "address": "CROMA, Ground Floor,D.V.Cascade,Plot 59A,59/B,59/C,59/D In Survey 9/9,Saroornagar Village,L.B.Nagar - 500074",
+            "lattitude": 17.352657,
+            "longitude": 78.546636,
+            "type": 7
+          },
+          {
+            "a": 1168,
+            "name": "Sai Baba, Theregaon",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "5/4, Nakhate Nagar,Kalewadi Main Road,Theregaon,Pune-411033",
+            "lattitude": 18.611143,
+            "longitude": 73.783103,
+            "type": 7
+          },
+          {
+            "a": 1169,
+            "name": "Sridha Motors, Chakan",
+            "state": "Maharashtra",
+            "city": "Chakan",
+            "address": "GAT NO. 143/3, PUNE-NASHIK HIGHWAY WAKI (KH), Maharashtra 410501",
+            "lattitude": 18.77893,
+            "longitude": 73.87099,
+            "type": 7
+          },
+          {
+            "a": 1170,
+            "name": "Bikanerwala, NH 48 Panchgaon",
+            "state": "Maharashtra",
+            "city": "Panchgaon",
+            "address": "55th Mile Stone, NH 48, Kukrola, Panchgaon, Gurugram, Pin-122001",
+            "lattitude": 28.323394,
+            "longitude": 76.901196,
+            "type": 7
+          },
+          {
+            "a": 1171,
+            "name": "IOCL - COCO, Prabhadevi",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Plot No, P. N. 1207, CADELL RD. MUMBAI, PRABHADEVI CADEL RD., MUMBAI - 400022",
+            "lattitude": 19.018857,
+            "longitude": 72.831076,
+            "type": 7
+          },
+          {
+            "a": 1172,
+            "name": "Nangia Cars, Hinghna",
+            "state": "Maharashtra",
+            "city": "Nagpur",
+            "address": "33B 1/4 Hinghna MIDC Opp Nangia Speciality Hospital Nagpur 440028",
+            "lattitude": 21.13459,
+            "longitude": 79.004423,
+            "type": 7
+          },
+          {
+            "a": 1173,
+            "name": "Jitendra Wheels, Ambad",
+            "state": "Maharashtra",
+            "city": "Nashik",
+            "address": "B-88 MIDC AMBAD, Mumbai Agra highway,Next to Hotel gateway Nashik-  422010",
+            "lattitude": 19.950077,
+            "longitude": 73.749175,
+            "type": 7
+          },
+          {
+            "a": 1174,
+            "name": "Tata Power, Dharavi Colony",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Tata Power Dharavi Colony labour camp dharavi ,Matunga ,Mumbai 400019",
+            "lattitude": 19.034402,
+            "longitude": 72.85284,
+            "type": 7
+          },
+          {
+            "a": 1175,
+            "name": "Unique Automobiles, MIDC Shiroli",
+            "state": "Maharashtra",
+            "city": "Kolhapur",
+            "address": "S.No 592,H.No 4481 1st Stop MIDC Shiroli(P) Tal-Hatkanangale, Dist-Kolhapur-416122",
+            "lattitude": 16.753021,
+            "longitude": 74.279095,
+            "type": 7
+          },
+          {
+            "a": 1176,
+            "name": "Dhoot Motors, Adalat Road",
+            "state": "Maharashtra",
+            "city": "Aurangabad",
+            "address": "ABC Complex, Adalat Road, Aurangabad, Maharashtra 431005Second location for survey : Adalat Road, Next to High Court, Aurangabad, Maharashtra 431005",
+            "lattitude": 19.872922,
+            "longitude": 75.318613,
+            "type": 7
+          },
+          {
+            "a": 1177,
+            "name": "Nathani Heights, Mumbai Central",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Junction of Bellasis Road and Dr D.B. Marg , Mumbai Central, Mumbai 400008",
+            "lattitude": 18.9688627,
+            "longitude": 72.8207138,
+            "type": 7
+          },
+          {
+            "a": 1178,
+            "name": "Amanora Mall Big Bazar Parking, Hadapsar",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Crescent Rd, Amanora Park Town, Hadapsar, Pune, Maharashtra 411028",
+            "lattitude": 18.51873971,
+            "longitude": 73.936184,
+            "type": 7
+          },
+          {
+            "a": 1179,
+            "name": "Amnora Sport Arena, Hadapsar",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Amanora Township , Hadpasar , Pune 411028",
+            "lattitude": 18.51566576,
+            "longitude": 73.94607248,
+            "type": 7
+          },
+          {
+            "a": 1180,
+            "name": "CSMT Station, Fort",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Chhatrapati Shivaji Maharaj Terminus, Fort, Mumbai, Maharashtra 400001",
+            "lattitude": 18.9453551,
+            "longitude": 72.8383287,
+            "type": 7
+          },
+          {
+            "a": 1181,
+            "name": "Mahanagar Gas Limited, Wadala",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "MGL Terminal, opposite Anik Depot, Wadala, Mumbai, Maharashtra 400022",
+            "lattitude": 19.0472567,
+            "longitude": 72.8783829,
+            "type": 7
+          },
+          {
+            "a": 1182,
+            "name": "IOCL COCO, BKC",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Bandra Kurla Complex, New Coco At, C-67, Bharat Nagar Rd, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+            "lattitude": 19.0599578,
+            "longitude": 72.8647916,
+            "type": 7
+          },
+          {
+            "a": 1185,
+            "name": "Zenith Chemical Works Pvt Ltd, Andheri East",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Zenith Chemical Works Pvt Ltd. Plot No. B.6, Cross Road B, MIDC Marol, Andheri East residing at Mumbai-400093",
+            "lattitude": 19.1157451,
+            "longitude": 72.8682563,
+            "type": 7
+          },
+          {
+            "a": 1186,
+            "name": "Panchjanya Motors, Bhosari",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Wakad - Bhosari BRTS Road, Century Enka Colony, Bhosari, Pimpri-Chinchwad,Maharashtra 411039",
+            "lattitude": 18.61547,
+            "longitude": 73.84618,
+            "type": 7
+          },
+          {
+            "a": 1187,
+            "name": "Panchjanya Motors, Chinchwad",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "No 49, Block D2, MIDC Ador Power Station, Chinchwad, Ram Nagar, Chinchwad, Pune,Maharashtra 411039",
+            "lattitude": 18.648576,
+            "longitude": 73.798872,
+            "type": 7
+          },
+          {
+            "a": 1188,
+            "name": "Hotel Sai International Yelur, Sangali",
+            "state": "Maharashtra",
+            "city": "Yelur",
+            "address": "Pune Bangalore Highway (NH-4, Vasant Park Chougle Plot, Yelur, Maharashtra 415411",
+            "lattitude": 16.956461,
+            "longitude": 74.275721,
+            "type": 7
+          },
+          {
+            "a": 1189,
+            "name": "Sangam Hotel, Pune- Bangalore Road",
+            "state": "Maharashtra",
+            "city": "Karad",
+            "address": "NH 4, Pune-Bangalore Road, Near Kolhapur Naka, Karad, Maharashtra 415110",
+            "lattitude": 17.2737243,
+            "longitude": 74.1802756,
+            "type": 7
+          },
+          {
+            "a": 1190,
+            "name": "Amrai Hotel & Resort , NH 4 Shendre",
+            "state": "Maharashtra",
+            "city": "Satara",
+            "address": "KG.NO 207/B, Plot No-1&2, Near National Highway No-4, Shendre, Satara, Maharashtra 415002",
+            "lattitude": 17.63820763,
+            "longitude": 74.01209174,
+            "type": 7
+          },
+          {
+            "a": 1191,
+            "name": "AH Group, Hinjewadi Phase I",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Aditya Infotech Park ,SBI Bank ,Phase I , Hinjewadi Pune 411057",
+            "lattitude": 18.589877,
+            "longitude": 73.7383657,
+            "type": 7
+          },
+          {
+            "a": 1192,
+            "name": "Jaika Motors, Civil Lines",
+            "state": "Maharashtra",
+            "city": "Nagpur",
+            "address": "Jaika Motors Pvt Ltd.Post Box No.1 Commercial Road Civil Lines Nagpur 440001",
+            "lattitude": 21.155667,
+            "longitude": 79.078708,
+            "type": 7
+          },
+          {
+            "a": 1193,
+            "name": "IOCL Kini Causway, Bandra West",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "36, SV Rd, Santosh Nagar, Bandra West, Mumbai, Maharashtra 400050",
+            "lattitude": 19.051601,
+            "longitude": 72.838011,
+            "type": 7
+          },
+          {
+            "a": 1194,
+            "name": "IOCL Hundred Percent Filling & Service Station, Dwarka",
+            "state": "Maharashtra",
+            "city": "Delhi",
+            "address": "Sector 9, Dwarka, New Delhi, Delhi 110073",
+            "lattitude": 28.578641,
+            "longitude": 77.05962,
+            "type": 7
+          },
+          {
+            "a": 1195,
+            "name": "Vikarsh Nano technology, Dhangarwadi",
+            "state": "Maharashtra",
+            "city": "Satara",
+            "address": "Vikarsh Nano technology & Alloys pvt ltd, Gat No 273&274, Dhangarwadi village Tal- Khandala, Shirwal Dist- Satara 412801",
+            "lattitude": 18.11289,
+            "longitude": 73.98985,
+            "type": 7
+          },
+          {
+            "a": 1198,
+            "name": "IOCL - COCO WRD, Agarkar Nagar",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Agarkar Nagar, Pune, Maharashtra 411001",
+            "lattitude": 18.5269679,
+            "longitude": 73.8655123,
+            "type": 7
+          },
+          {
+            "a": 1203,
+            "name": "Jadhav Solar & Automotives, Badnera",
+            "state": "Maharashtra",
+            "city": "Amravati",
+            "address": "Jadhav Solar & Automotives Pvt.  Ltd., Jadhav E-Vehicles, Ground floor, Rangoli Pearl Hotel, Nawathe Square, Badnera Road, Amravati, MH- 444607",
+            "lattitude": 20.909443,
+            "longitude": 77.7522447,
+            "type": 7
+          },
+          {
+            "a": 1204,
+            "name": "IOCL - SUJIT AUTOMOBILES, Bangalore-Kanyakumari Road",
+            "state": "Maharashtra",
+            "city": "Butibori",
+            "address": "Bangalore - Salem - Madurai - Kanyakumari Road, Butibori, Maharashtra 441108",
+            "lattitude": 20.92258656,
+            "longitude": 78.99986387,
+            "type": 7
+          },
+          {
+            "a": 1205,
+            "name": "Hotel Sanskruti , Trambakeshwar Rd",
+            "state": "Maharashtra",
+            "city": "Nashik",
+            "address": "Trambakeshwar Rd, Belgaon Dhaga, Nashik, Maharashtra 422007",
+            "lattitude": 19.973146,
+            "longitude": 73.68105,
+            "type": 7
+          },
+          {
+            "a": 1207,
+            "name": "Datson Electronics, Gorhe",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "M/s. Datson Electronics pvt ltd Gat.No.30. Sinhagad Road , Gorhe Budruk .Tal- Haveli Next To Savali Resort , Off Sinhagad Road . Village Gorhe . Pune - 411025",
+            "lattitude": 18.423343,
+            "longitude": 73.754875,
+            "type": 7
+          },
+          {
+            "a": 1208,
+            "name": "Ace Kudale Cycles, Manjri  Bk",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Manjri Bk, Pune, Maharashtra 412307",
+            "lattitude": 18.4957722,
+            "longitude": 73.97893593,
+            "type": 7
+          },
+          {
+            "a": 1209,
+            "name": "Hotel Dreamland, ST Main Market Mahabaleshwar",
+            "state": "Maharashtra",
+            "city": "Mahabaleshwar",
+            "address": "BUS STAND, MAIN MARKET, behind S.T, Mahabaleshwar, Maharashtra 412806",
+            "lattitude": 17.92564438,
+            "longitude": 73.65552014,
+            "type": 7
+          },
+          {
+            "a": 1212,
+            "name": "Hare Krishna Mahindra, Mulund West",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Building, Plot 1, Udyog Kshtra, Mulund Goregaon Link Rd, near D Mart Mulund, Salpa Devi Pada, Mulund West, Mumbai, Maharashtra 400080",
+            "lattitude": 19.163979,
+            "longitude": 72.938751,
+            "type": 7
+          },
+          {
+            "a": 1213,
+            "name": "Brookfield, Powai",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Spectra, High St, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076",
+            "lattitude": 19.11637,
+            "longitude": 72.91086,
+            "type": 7
+          },
+          {
+            "a": 1214,
+            "name": "Brookfield, Powai",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Pay & Park, Central Ave, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076",
+            "lattitude": 19.11644,
+            "longitude": 72.90968,
+            "type": 7
+          },
+          {
+            "a": 1217,
+            "name": "Ginger Nashik , Satpur Colony",
+            "state": "Maharashtra",
+            "city": "Nashik",
+            "address": "Plot No P 20 (Part), Satpur MIDC Near Satpur MIDC Police Station (Near Bank of India, Branch Nashik, Trimbakeshwar Rd, MIDC, Satpur Colony, Nashik, Maharashtra 422007",
+            "lattitude": 19.991881,
+            "longitude": 73.743904,
+            "type": 7
+          },
+          {
+            "a": 1218,
+            "name": "TML- Sterling Motors , Renuka Nagar",
+            "state": "Maharashtra",
+            "city": "Nashik",
+            "address": "PB No 033, Old Agra Rd, Gadkari Chowk, Renuka Nagar, Nashik, Maharashtra 422001",
+            "lattitude": 19.9932,
+            "longitude": 73.783133,
+            "type": 7
+          },
+          {
+            "a": 1219,
+            "name": "Satish Motors, Wanjarwadi",
+            "state": "Maharashtra",
+            "city": "Aurangabad",
+            "address": "Plot No72/1 Saharanpur, Wanjarwadi Aurangabad 431002",
+            "lattitude": 19.911983,
+            "longitude": 75.232932,
+            "type": 7
+          },
+          {
+            "a": 1220,
+            "name": "Heritage Motors, Ghodbunder",
+            "state": "Maharashtra",
+            "city": "Thane",
+            "address": "Rosa Vista, MH SH 42, opp. Suraj Water Park, Thane, Maharashtra 400607",
+            "lattitude": 19.25612,
+            "longitude": 72.97145,
+            "type": 7
+          },
+          {
+            "a": 1223,
+            "name": "Smile Stone Motels, Kamargaon",
+            "state": "Maharashtra",
+            "city": "Ahmednagar",
+            "address": "76/B, Nagar-Pune Road, Kamargaon, Ahmednagar,Maharashtra-411005",
+            "lattitude": 18.9852363,
+            "longitude": 74.5760075,
+            "type": 7
+          },
+          {
+            "a": 1232,
+            "name": "Four Points By Sheraton Hotel, Nagar Road",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "5th Milestone, Nagar Road, Pune - 411014",
+            "lattitude": 18.562826,
+            "longitude": 73.922392,
+            "type": 7
+          },
+          {
+            "a": 1239,
+            "name": "Mahati Industries limited, Shankar Sheth Road",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "32/33, Shankar Sheth Road, B/H S T Workshop, Shankar Sheth Road, Pune, Maharashtra-411037",
+            "lattitude": 18.4995583,
+            "longitude": 73.8685639,
+            "type": 7
+          },
+          {
+            "a": 1247,
+            "name": "Zostel, Dandeghar",
+            "state": "Maharashtra",
+            "city": "Panchgani",
+            "address": "Panchgani, Wai, Main Road, Dandeghar, Maharashtra 412805",
+            "lattitude": 17.9335258,
+            "longitude": 73.8158574,
+            "type": 7
+          },
+          {
+            "a": 1248,
+            "name": "Rama Automobiles, Patilwada",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Ground Floor Pune Nasik Highway, Manchar, Shevawadi, behind Morde Food Product Company, Patilwada, Pune, Maharashtra 410503",
+            "lattitude": 18.99132729,
+            "longitude": 73.94277954,
+            "type": 7
+          },
+          {
+            "a": 1249,
+            "name": "Hotel Temple View, Sai Nagar",
+            "state": "Maharashtra",
+            "city": "Shirdi",
+            "address": "Sai Murali Complex, Manmad Rd, opp. Sai Temple Nagar, Sai Nagar, Shirdi, Maharashtra 423109",
+            "lattitude": 19.7650352,
+            "longitude": 74.4754592,
+            "type": 7
+          },
+          {
+            "a": 1250,
+            "name": "Oberoi Mall, Goregaon",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Western Express Hwy, Yashodham, Goregaon, Mumbai, Maharashtra 400063",
+            "lattitude": 19.1737611,
+            "longitude": 72.8600172,
+            "type": 7
+          },
+          {
+            "a": 1251,
+            "name": "Oberoi Mall, Goregaon",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Western Express Hwy, Yashodham, Goregaon, Mumbai, Maharashtra 400063",
+            "lattitude": 19.1737611,
+            "longitude": 72.8600172,
+            "type": 7
+          },
+          {
+            "a": 1259,
+            "name": "Sonaee Veg Family Restaurant, Pune-Solapur Highway",
+            "state": "Maharashtra",
+            "city": "Uruli Kanchan",
+            "address": "National Highway 65 Yavat, Uruli Kanchan, Maharashtra 412202",
+            "lattitude": 18.487405,
+            "longitude": 74.146125,
+            "type": 7
+          },
+          {
+            "a": 1261,
+            "name": "The Grand Legacy, Panchgani-Mahabaleshwar Road",
+            "state": "Maharashtra",
+            "city": "Mahabaleshwar",
+            "address": "Panchgani-Mahabaleshwar Road, Post. Met-Gutad, behind Saj Resort by Club Mahindra, Mahabaleshwar, Maharashtra 412806",
+            "lattitude": 17.92655754,
+            "longitude": 73.69586565,
+            "type": 7
+          },
+          {
+            "a": 1262,
+            "name": "The Grand Legacy, Panchgani-Mahabaleshwar Road",
+            "state": "Maharashtra",
+            "city": "Mahabaleshwar",
+            "address": "Panchgani-Mahabaleshwar Road, Post. Met-Gutad, behind Saj Resort by Club Mahindra, Mahabaleshwar, Maharashtra 412806",
+            "lattitude": 17.92655754,
+            "longitude": 73.69586565,
+            "type": 7
+          },
+          {
+            "a": 1263,
+            "name": "Morya Transport Terminus, MIDC Bhosari",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Plot no BGP 109 Village MIDC Bhosari Taluka Haveli Pune 411026",
+            "lattitude": 18.621396,
+            "longitude": 73.8384375,
+            "type": 7
+          },
+          {
+            "a": 1264,
+            "name": "The Gateway Hotel, Ambad",
+            "state": "Maharashtra",
+            "city": "Nashik",
+            "address": "Ambad, Nashik, Maharashtra-422010",
+            "lattitude": 19.9594519,
+            "longitude": 73.7591054,
+            "type": 7
+          },
+          {
+            "a": 1265,
+            "name": "AB Infra Limited, old MIDC",
+            "state": "Maharashtra",
+            "city": "Latur",
+            "address": "Plot No- F-54, old MIDC, Latur- 413531",
+            "lattitude": 18.4159831,
+            "longitude": 76.5356299,
+            "type": 7
+          },
+          {
+            "a": 1266,
+            "name": "Click Hotel, Rane Nagar",
+            "state": "Maharashtra",
+            "city": "Nashik",
+            "address": "904, Mumbai - Agra National Hwy, opposite Orchid International, Rane Nagar, Nashik, Maharashtra 422009",
+            "lattitude": 19.9625471,
+            "longitude": 73.7652956,
+            "type": 7
+          },
+          {
+            "a": 1267,
+            "name": "Click Hotel, Cidco",
+            "state": "Maharashtra",
+            "city": "Aurangabad",
+            "address": "Phulambri - Sillod Rd, Hudco, Yadav Nagar, N 11, Cidco, Aurangabad, Maharashtra 431003",
+            "lattitude": 19.9116134,
+            "longitude": 75.348291,
+            "type": 7
+          },
+          {
+            "a": 1268,
+            "name": "Aurangabad Smart City, Himayat Bagh",
+            "state": "Maharashtra",
+            "city": "Aurangabad",
+            "address": "V8VH+HMJ, Himayat Bagh, Aurangabad, Maharashtra 431004",
+            "lattitude": 19.8942375,
+            "longitude": 75.3280838,
+            "type": 7
+          },
+          {
+            "a": 1269,
+            "name": "Navagauri Tyres, MIDC",
+            "state": "Maharashtra",
+            "city": "Baramati",
+            "address": "MIDC Baramati Plot No. 237, near Hindustan Cattle feed Baramati- 413133",
+            "lattitude": 18.206925,
+            "longitude": 74.6085667,
+            "type": 7
+          },
+          {
+            "a": 1270,
+            "name": "MH | Nashik | Nashik | Car mall",
+            "state": "Maharashtra",
+            "city": "Maharashtra",
+            "address": "CAR MALL, Buddha Vihar, Pathardi Phata, Nashik, Maharashtra 422010",
+            "lattitude": 19.9519,
+            "longitude": 73.7541,
+            "type": 24
+          },
+          {
+            "a": 1271,
+            "name": "MH | Nashik | Nashik | Car mall",
+            "state": "Maharashtra",
+            "city": "Maharashtra",
+            "address": "CAR MALL, Buddha Vihar, Pathardi Phata, Nashik, Maharashtra 422010",
+            "lattitude": 19.9519,
+            "longitude": 73.7541,
+            "type": 24
+          },
+          {
+            "a": 1290,
+            "name": "Holiday Villa, Poladpur Road",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "T-163, MIDC Bhosari, Pune, MIDC, Bhosari, Pimpri-Chinchwad, Piune-411026",
+            "lattitude": 18.6209574,
+            "longitude": 73.8299842,
+            "type": 7
+          },
+          {
+            "a": 1451,
+            "name": "Magenta TTC, Turbhe",
+            "state": "Maharashtra",
+            "city": "Navi Mumbai",
+            "address": "Magenta House, D-285, TTC Industrial Area, nTurbhe, Near Unitech Motors, Navi Mumbai, Maharashtra",
+            "lattitude": 19.0685788,
+            "longitude": 73.022744,
+            "type": 18
+          },
+          {
+            "a": 1452,
+            "name": "The Fern An Ecotel Hotel",
+            "state": "Maharashtra",
+            "city": "Lonavala",
+            "address": "84/1 to 4/2, Valvan, Maval, Lonavla, nMaharashtra 410401",
+            "lattitude": 18.76284112,
+            "longitude": 73.4267514,
+            "type": 18
+          },
+          {
+            "a": 1454,
+            "name": "Amanora Park Town",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Amanora Park Town, Amanora, Magarpatta nRd, Hadapsar, Pune, Maharashtra, 411028",
+            "lattitude": 18.51848416,
+            "longitude": 73.94137686,
+            "type": 18
+          },
+          {
+            "a": 1455,
+            "name": "Magenta TTC, Turbhe",
+            "state": "Maharashtra",
+            "city": "Navi Mumbai",
+            "address": "Magenta House, D-285, TTC Industrial Area, nTurbhe, Near Unitech Motors, Navi Mumbai, Maharashtra",
+            "lattitude": 19.0685788,
+            "longitude": 73.022744,
+            "type": 18
+          },
+          {
+            "a": 1456,
+            "name": "Xavier Institute of Engineering",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Opposite S.L.Raheja Hospital, Mahim nCauseway, Mahim (West), Raheja Hospital nMarg, Mumbai, Maharashtra 400016",
+            "lattitude": 19.04527839,
+            "longitude": 72.84168159,
+            "type": 18
+          },
+          {
+            "a": 1457,
+            "name": "HPCL auto care, Sajgaon",
+            "state": "Maharashtra",
+            "city": "Sajgaon",
+            "address": "Sajgaon HPCL petrol pump, Mumbai-Pune nExpressway",
+            "lattitude": 18.79344,
+            "longitude": 73.297239,
+            "type": 18
+          },
+          {
+            "a": 1458,
+            "name": "Magenta TTC, Turbhe",
+            "state": "Maharashtra",
+            "city": "Navi Mumbai",
+            "address": "Magenta House, D-285, TTC Industrial Area, nTurbhe, Near Unitech Motors, Navi Mumbai, Maharashtra",
+            "lattitude": 19.0685788,
+            "longitude": 73.022744,
+            "type": 18
+          },
+          {
+            "a": 1459,
+            "name": "UK 27, The Fern",
+            "state": "Maharashtra",
+            "city": "Belgavi",
+            "address": "UK27, Fern, Ayodhya Nagar, Sadashiv Nagar, nBelagavi",
+            "lattitude": 15.87491249,
+            "longitude": 74.51340824,
+            "type": 18
+          },
+          {
+            "a": 1460,
+            "name": "Fern Residency Karad",
+            "state": "Maharashtra",
+            "city": "Karad",
+            "address": "The Fern Residency,NH-4 At Munde, Tal, nKarad",
+            "lattitude": 17.2976094,
+            "longitude": 74.16633302,
+            "type": 18
+          },
+          {
+            "a": 1482,
+            "name": "Charge Zone",
+            "state": "Maharashtra",
+            "city": "Kasara",
+            "address": "MH | Kasara | Hotel Vrundavan,Hotel Vrindavan, Mumbai nasik highway,near indian petrol pump,mukhavane,kasara, dist thane, Kasara, Maharashtra 421601",
+            "lattitude": 19.62751783,
+            "longitude": 73.44803503,
+            "type": 24
+          },
+          {
+            "a": 1483,
+            "name": "Charge Zone",
+            "state": "Maharashtra",
+            "city": "Sangli",
+            "address": "MH | Sangli | Mehta Petroleum,Miraj Rd, Samasta nagar, Miraj, Maharashtra 416410",
+            "lattitude": 18.79104859,
+            "longitude": 73.29845541,
+            "type": 24
+          },
+          {
+            "a": 1484,
+            "name": "Charge Zone",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "MH | Mumbai | The Westin Mumbai Powai Lake,The Westin Mumbai Powai Lake  Kailash Nagar, Morarji Nagar, Powai, Mumbai, Maharashtra 400076",
+            "lattitude": 19.133659,
+            "longitude": 72.900817,
+            "type": 24
+          },
+          {
+            "a": 1485,
+            "name": "Charge Zone",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "MH | Mumbai | NSCI - Worli,NSCI, Lala Lajpatrai Marg, Lotus Colony, Worli, Mumbai, Maharashtra 400018",
+            "lattitude": 18.9862222,
+            "longitude": 72.8149436,
+            "type": 24
+          },
+          {
+            "a": 1513,
+            "name": "Tata Power",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Hotel Swamiraj Executive, Pune-Solapur Highway, Hotel Swamiraj Executive, Opposite to Saradewadi Toll Plaza,, Pune-Solapur Highway,Indapur, Pune, Maharashtra 413106",
+            "lattitude": 18.095949,
+            "longitude": 75.068207,
+            "type": 7
+          },
+          {
+            "a": 1514,
+            "name": "Tata Power",
+            "state": "Maharashtra",
+            "city": "Pune",
+            "address": "Balajee Auto, Aundh, Phase 2, Siddarth Nagar Society, Aundh, Pune, Maharashtra 411007",
+            "lattitude": 18.567199,
+            "longitude": 73.812297,
+            "type": 7
+          },
+          {
+            "a": 1515,
+            "name": "Tata Power",
+            "state": "Maharashtra",
+            "city": "Panvel",
+            "address": "Hotel Pravin , Vishrali Naka, Pravin Smruti, Service Rd, Subhash Nagar, Vishrali Naka, Old Panvel, Navi Mumbai-410206",
+            "lattitude": 18.98164,
+            "longitude": 73.11555,
+            "type": 7
+          },
+          {
+            "a": 1516,
+            "name": "Tata Power",
+            "state": "Maharashtra",
+            "city": "Navi Mumbai",
+            "address": "Fortune Cars, Navi Mumbai, Plot No. D-400, TTC Industrial Area, MIDC, Near Uran Phata Signal, Nerul, Navi Mumbai, Maharashtra - 400706",
+            "lattitude": 19.03639,
+            "longitude": 73.029907,
+            "type": 7
+          },
+          {
+            "a": 1520,
+            "name": "Tata Power",
+            "state": "Maharashtra",
+            "city": "Nagpur",
+            "address": "RawMatt CNG Filling Station, Wadi, Old Wadi Naka, No. 10, Amravati Rd, Wadi, Nagpur, Maharashtra 440023",
+            "lattitude": 21.154062,
+            "longitude": 79.013159,
+            "type": 7
+          },
+          {
+            "a": 1521,
+            "name": "Tata Power",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "The Taj Mahal Palace, Colaba, In front of Times Building , Apollo Bandar, Colaba, Mumbai, Maharashtra 400001",
+            "lattitude": 18.92279506,
+            "longitude": 72.83351898,
+            "type": 7
+          },
+          {
+            "a": 1524,
+            "name": "Tata Power",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Seven Hills Hospital, Andheri East, SevenHills Health City, Marol Maroshi Road, Andheri East, Mumbai, Maharashtra 400059",
+            "lattitude": 19.118831,
+            "longitude": 72.87823,
+            "type": 7
+          },
+          {
+            "a": 1528,
+            "name": "Tata Power",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "IOCL Sahara Hospitality, Vile Parle, opp. Domestic Airport, Navpada, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400099",
+            "lattitude": 19.094122,
+            "longitude": 72.85223,
+            "type": 7
+          },
+          {
+            "a": 1537,
+            "name": "Tata Power",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "CR - Lokmanya Tilak Station, Kurla, Outside Platform 1, Beside LTT Pay and Park, LTT Station, Pipeline Rd, Tilak Nagar, Kurla, Mumbai, Maharashtra 400089",
+            "lattitude": 19.068262,
+            "longitude": 72.890964,
+            "type": 7
+          },
+          {
+            "a": 1538,
+            "name": "Tata Power",
+            "state": "Maharashtra",
+            "city": "Chouk",
+            "address": "Chowk Highway Service Centre, Old Mum-Pune highway, Nadhal, NH 48, Chouk,, Old Mumbai - Pune Hwy, Maharashtra 410206",
+            "lattitude": 18.90173,
+            "longitude": 73.23436,
+            "type": 7
+          },
+          {
+            "a": 1539,
+            "name": "Tata Power",
+            "state": "Maharashtra",
+            "city": "Ahmednagar",
+            "address": "Lilium Park, SH 44, Hotel Lilium Park State Highway 44, Opp. Lemon Tree Hotel, Ahmednagar, Maharashtra 414106",
+            "lattitude": 19.26433634,
+            "longitude": 74.82719974,
+            "type": 7
+          }
+    ]
+}

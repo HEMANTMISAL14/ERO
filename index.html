@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script> -->
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='stylesheet' />
+    
+    <!-- <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.min.js'></script> -->
+    <!-- <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.css' type='text/css' /> -->
+    
+    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v5.0.0/mapbox-gl-geocoder.css" type="text/css">
+
+    <!-- <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.2.0/mapbox-gl-directions.js"></script> -->
+    <!-- <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.2.0/mapbox-gl-directions.css" type="text/css"> -->
+
+    <title>ERO</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<script type="module" src="script.js" defer></script>
+
+<body>
+
+    <div id='map'></div>
+    
+    <div class="form">
+        <div class="inp">
+            <input id="in1" class="percentage" type="number" placeholder="EV percentage">
+            <label for="in1">%</label>
+        </div>
+
+        <div class="inp">
+            <input id="in2" class="range" type="number" placeholder="EV Range">
+            <label for="in2">Km</label>
+        </div>
+
+        <div class="inp">
+            <input id="in3" class="capacity" type="number" placeholder="EV Capacity">
+            <label for="in3">KWh</label>
+        </div>
+    </div>
+
+    <div id="geocoder-container">
+        <div id="geocoder1"></div>
+        <div id="geocoder2"></div>
+    </div> 
+
+    <div class="viewer">
+        <div class="dot"></div>
+        <div class="mode">2D</div>
+    </div>
+
+
+</body>
+</html>
