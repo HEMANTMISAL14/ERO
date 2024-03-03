@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getDatabase, ref, get, child } from "@firebase/database";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyARefXnpBd9qrciQMqX6cKzUY7XJ_tMg88",
+    apiKey: "API_KEY",
     authDomain: "zippy-starlight-379008.firebaseapp.com",
     databaseURL: "https://zippy-starlight-379008-default-rtdb.firebaseio.com",
     projectId: "zippy-starlight-379008",
